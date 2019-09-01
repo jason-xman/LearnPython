@@ -15,7 +15,7 @@
   * megra
   * revser
 ## git流程图
-   ![git完整操作流程图，包括基本概念组](.\Image\git-process.png)
+   ![git完整操作流程图，包括基本概念组](./Image/git-process.png)
 ## git工具
 1.  客户端 **[git下载地址](https://git-scm.com/downloads)**   推荐前期命令行工具，熟悉运行原理，后续使用GUI工具
 2. 服务端**[github](https://github.com)** 全球著名代码托管网站，邮箱即可注册
